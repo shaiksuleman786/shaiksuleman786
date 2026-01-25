@@ -18,8 +18,7 @@
 - 💻 Love building clean, responsive, and user-friendly web interfaces
 - 🤝 Open to **internships, collaborations, and real-world projects**
 - 📂 All my projects are available on **GitHub**
-- 📄 Know about my experience:  
-  👉 [View Resume](https://drive.google.com/file/d/1xxDdiwLvRP1UVHwLy2-ZB3RmM8HEun7Z/view)
+- 📄 Know about my experience:[View Resume](https://drive.google.com/file/d/1xxDdiwLvRP1UVHwLy2-ZB3RmM8HEun7Z/view)
 - 📧 Reach me at **shaiksuleman815@gmail.com**
 - ⚡ Fun fact: I break things, fix them, and call it learning — especially with GenAI 🤖
 
