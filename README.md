@@ -1,46 +1,86 @@
-<h1 align="center">Hi there 👋, I'm Shaik Suleman</h1>
+<h1 align="center">Hi 👋, I'm Shaik Suleman</h1>
 
-## 👨‍💻 About Me
+<p align="center">
+  <img width="100%" alt="Profile Banner" 
+  src="https://github.com/user-attachments/assets/44fb5cbe-c030-4e4a-9774-3ca3eb47ed1f" />
+</p>
 
-🚀 **Front End Developer | Transitioning into Full-Stack Web Development**
+---
 
-- 🌱 Currently learning **React, Node.js, Python**
-- 💻 Love building clean, responsive web interfaces
-- 🤝 Open to **internships & real-world projects**
-- 🧠 Ask me about **Frontend, JavaScript, Python**
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 👨‍💻 About Me  
+🚀 **Front-End Developer | Moving toward Full-Stack Development**
+
+- 🌱 Currently learning **Cloud Computing (AWS)** and **Generative AI**
+- 💻 Love building clean, responsive, and user-friendly web interfaces
+- 🤝 Open to **internships, collaborations, and real-world projects**
 - 📂 All my projects are available on **GitHub**
-- 📧 Reach me at: **shaiksuleman815@gmail.com**
-- ⚡ Fun fact: I enjoy learning tech through projects 🚀
+- 📄 Know about my experience:  
+  👉 [View Resume](https://drive.google.com/file/d/1xxDdiwLvRP1UVHwLy2-ZB3RmM8HEun7Z/view)
+- 📧 Reach me at **shaiksuleman815@gmail.com**
+- ⚡ Fun fact: I break things, fix them, and call it learning — especially with GenAI 🤖
+
+</td>
+
+<td width="40%" align="right">
+
+<img alt="Coding animation" width="100%"
+src="https://www.websitedesignjoburg.co.za/wp-content/uploads/2024/12/digital-marketing-expert-in-johannesburg.gif"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/suleman-shaik-" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    height="30" width="40" />
+  </a>
+
+  <a href="https://www.codechef.com/users/cs23341a05m4" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+    height="30" width="40" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/shaiksuleman815" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+    height="30" width="40" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+⭐ **Thanks for visiting my profile!**  
+Feel free to connect, collaborate, or explore my projects.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
----
-
-⭐ **Thanks for visiting my profile! Feel free to connect or collaborate.**
