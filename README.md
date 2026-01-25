@@ -9,7 +9,7 @@
 - 🤝 Open to **internships & real-world projects**
 - 🧠 Ask me about **Frontend, JavaScript, Python**
 - 📂 All my projects are available on **GitHub**
-- 📧 Reach me at: **yourmail@gmail.com**
+- 📧 Reach me at: **shaiksuleman815@gmail.com**
 - ⚡ Fun fact: I enjoy learning tech through projects 🚀
 
 ---
