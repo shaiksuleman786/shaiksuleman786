@@ -12,7 +12,7 @@
 <td width="60%" valign="top">
 
 ## 👨‍💻 About Me  
-🚀 **Front-End Developer | Moving toward Full-Stack Development**
+🚀 ** Currently learning Cloud Computing (AWS) and Generative AI technologies. **
 
 - 🌱 Currently learning **Cloud Computing (AWS)** and **Generative AI**
 - 💻 Love building clean, responsive, and user-friendly web interfaces
