@@ -44,7 +44,7 @@ src="https://www.websitedesignjoburg.co.za/wp-content/uploads/2024/12/digital-ma
   </a>
 
   <a href="https://www.codechef.com/users/cs23341a05m4" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+    <img src="https://s3.amazonaws.com/discourseproduction/original/1X/ba28115bd3d5badf6cce0eb175d5875dadee3b12.png"
     height="30" width="40" />
   </a>
 
