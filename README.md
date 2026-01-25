@@ -12,7 +12,7 @@
 <td width="60%" valign="top">
 
 ## 👨‍💻 About Me  
-🚀 ** Currently learning Cloud Computing (AWS) and Generative AI technologies. **
+🚀 **Currently learning Cloud Computing (AWS) and Generative AI technologies.**
 
 - 🌱 Currently learning **Cloud Computing (AWS)** and **Generative AI**
 - 💻 Love building clean, responsive, and user-friendly web interfaces
