@@ -76,17 +76,7 @@ src="https://www.websitedesignjoburg.co.za/wp-content/uploads/2024/12/digital-ma
 </p>
 
 ---
-<h3 align="left">Support:</h3>
-<p align="center">
-  <a href="https://vidyadheesha.online/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/💖%20Help%20Me%20Grow-87ceeb?style=for-the-badge"
-      alt="Help Me Grow"
-      height="55"
-      style="width:260px;"
-    />
-  </a>
-</p>
+ 
 
 
 
