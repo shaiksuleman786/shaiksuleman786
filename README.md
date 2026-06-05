@@ -82,27 +82,37 @@
 
 ### 🎓 Vidhya Disha | React.js, Node.js, Express.js, SQL | 2025
 
-- Built a career guidance platform for 10th and 12th pass-out students.
-- Provided learning resources and career roadmaps.
-- Integrated AI-driven logic using Node.js to generate personalized learning milestones and career paths.
-- Developed a notification system for upcoming exams and important career updates.
+- Built a career guidance platform for students.
+- Integrated AI-driven learning milestones and career paths.
+- Added notifications for exams and career updates.
 
 ---
 
 ### 🦁 IndianAnimals | HTML, CSS, JavaScript, JSON | 2024
 
-- Developed a responsive wildlife web application showcasing animal profiles.
-- Implemented filtering and pagination for improved user experience.
-- Used modular and reusable JavaScript code for maintainability.
-- Designed a mobile-friendly interface with support for future content updates.
+- Developed a responsive wildlife information platform.
+- Implemented filtering and pagination.
+- Designed a mobile-friendly interface.
 
 ---
 
-## 📈 Contribution Graph
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaiksuleman786&theme=github-dark&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=shaiksuleman786&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 LeetCode Profile
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Suleman_123/">
+  <img src="https://leetcard.jacoblin.cool/Suleman_123?theme=dark&font=Baloo&ext=heatmap" />
+</a>
 
 </div>
 
