@@ -110,7 +110,31 @@ Full Stack Web Developer with hands-on experience in building scalable, AI-power
 
 </div>
 
+ 
 ---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+### 🚀 Explore My Digital Portfolio
+
+Showcasing my projects, technical skills, internship experience, achievements, and journey as a Full Stack Developer.
+
+<br>
+
+<a href="https://cinematic-portfolio-one.vercel.app/">
+<img src="https://img.shields.io/badge/View%20Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<br><br>
+
+🔗 https://cinematic-portfolio-one.vercel.app/
+
+</div>
+
+---
+ 
+
 
 ## 🤝 Connect With Me
 
