@@ -1,4 +1,4 @@
-<div align="center">
+1<div align="center">
 
 <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" alt="Banner"/>
 
@@ -93,16 +93,6 @@
 - Developed a responsive wildlife information platform.
 - Implemented filtering and pagination.
 - Designed a mobile-friendly interface.
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shaiksuleman786&theme=github-dark-blue&hide_border=true"/>
-
-</div>
 
 ---
 
