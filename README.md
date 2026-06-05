@@ -32,12 +32,16 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer
+Full Stack Web Developer with hands-on experience in building scalable, AI-powered web applications using React.js, Node.js, Express.js, and SQL. Backed by industry internship experience and multiple end-to-end projects, I possess a strong understanding of both frontend and backend development. Passionate about creating efficient, user-centric solutions, with the ability to work independently as well as collaborate effectively in team environments.
+
+- 💻 Full Stack Web Developer
 - ☁️ Learning AWS Cloud Computing
-- 🤖 Exploring Generative AI
-- 🏆 Hackathon Participant
-- 🚀 Building Modern Web Applications
-- 📚 Always Learning New Technologies
+- 🤖 Exploring Generative AI & Machine Learning
+- 🚀 Building Scalable Web Applications
+- 🏆 Hackathon Participant & Problem Solver
+- 📚 Strong Interest in Data Structures & Algorithms
+- 🤝 Open to Internships, Collaborations & Open Source
+- 🌱 Continuously Learning New Technologies
 
 ---
 
