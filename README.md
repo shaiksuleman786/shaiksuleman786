@@ -1,90 +1,137 @@
-<h1 align="center">Hi 👋, I'm Shaik Suleman</h1>
+<div align="center">
 
-<p align="center">
-  <img width="100%" alt="Profile Banner" 
-  src="https://github.com/user-attachments/assets/44fb5cbe-c030-4e4a-9774-3ca3eb47ed1f" />
-</p>
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" alt="Banner"/>
 
----
+# 👋 Hi, I'm Shaik Suleman
 
-<table>
-<tr>
-<td width="60%" valign="top">
+### 💻 Full Stack Developer | ☁️ AWS Learner | 🤖 GenAI Explorer
 
-## 👨‍💻 About Me  
-🚀 **Currently learning Cloud Computing (AWS) and Generative AI technologies.**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=58A6FF&center=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Projects;AWS+Cloud+Computing+Learner;Generative+AI+Explorer;Always+Learning+New+Things" />
 
-- 🌱 Currently learning **Cloud Computing (AWS)** and **Generative AI**
-- 💻 Love building clean, responsive, and user-friendly web interfaces
-- 🤝 Open to **internships, collaborations, and real-world projects**
-- 📂 All my projects are available on **GitHub**
-- 📄 Know about my experience:[View Resume](https://drive.google.com/file/d/1xxDdiwLvRP1UVHwLy2-ZB3RmM8HEun7Z/view)
-- 📧 Reach me at **shaiksuleman815@gmail.com**
-- ⚡ Fun fact: I break things, fix them, and call it learning — especially with GenAI 🤖
+<br>
 
-</td>
+<a href="https://www.linkedin.com/in/suleman-shaik-">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<td width="40%" align="right">
+<a href="mailto:shaiksuleman815@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img alt="Coding animation" width="100%"
-src="https://www.websitedesignjoburg.co.za/wp-content/uploads/2024/12/digital-marketing-expert-in-johannesburg.gif"/>
+<a href="https://www.hackerrank.com/profile/shaiksuleman815">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-</td>
-</tr>
-</table>
+<a href="https://www.codechef.com/users/cs23341a05m4">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🔗 Connect with me
+## 🚀 About Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/suleman-shaik-" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    height="30" width="40" />
-  </a>
-
-  <a href="https://www.codechef.com/users/cs23341a05m4" target="_blank">
-    <img src="https://s3.amazonaws.com/discourseproduction/original/1X/ba28115bd3d5badf6cce0eb175d5875dadee3b12.png"
-    height="30" width="40" />
-  </a>
-
-  <a href="https://www.hackerrank.com/profile/shaiksuleman815" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-    height="30" width="40" />
-  </a>
-</p>
+- 💻 Full Stack Developer
+- ☁️ Learning AWS Cloud Computing
+- 🤖 Exploring Generative AI
+- 🏆 Hackathon Participant
+- 🚀 Building Modern Web Applications
+- 📚 Always Learning New Technologies
 
 ---
 
-## 🛠️ Languages & Tools
+## ⚡ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://slackemoji.com/assets/img/emoji/logo-express.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,aws,firebase,tailwind,git,github,vscode"/>
+
+</div>
 
 ---
- 
 
+## 🚀 My Projects
 
+### 📈 Stock Money Manager | React.js, Node.js, Express.js, SQL | 2026
 
+- Built a stock portfolio management platform.
+- Enabled users to track investments, profits, and losses.
+- Provided portfolio analytics and financial insights.
+- Implemented secure user authentication and data management.
 
+---
 
+### 🤖 Stock Suggester | React.js, Node.js, Express.js, AI | 2026
 
-⭐ **Thanks for visiting my profile!**  
-Feel free to connect, collaborate, or explore my projects.
+- Built an AI-powered stock recommendation platform.
+- Analyzed stock trends and market data.
+- Generated personalized stock suggestions based on user preferences.
+- Designed an intuitive dashboard for better investment decisions.
 
+---
 
+### 📂 Project Vault | React.js, Node.js, Express.js, SQL | 2025
 
+- Developed a centralized platform for managing project resources.
+- Implemented secure authentication and role-based access control.
+- Added project tracking and file management features.
+- Integrated SQL database operations for efficient storage and management.
+
+---
+
+### 🎓 Vidhya Disha | React.js, Node.js, Express.js, SQL | 2025
+
+- Built a career guidance platform for 10th and 12th pass-out students.
+- Provided learning resources and career roadmaps.
+- Integrated AI-driven logic using Node.js to generate personalized learning milestones and career paths.
+- Developed a notification system for upcoming exams and important career updates.
+
+---
+
+### 🦁 IndianAnimals | HTML, CSS, JavaScript, JSON | 2024
+
+- Developed a responsive wildlife web application showcasing animal profiles.
+- Implemented filtering and pagination for improved user experience.
+- Used modular and reusable JavaScript code for maintainability.
+- Designed a mobile-friendly interface with support for future content updates.
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaiksuleman786&theme=github-dark&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/suleman-shaik-">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:shaiksuleman815@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/shaiksuleman786">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=shaiksuleman786&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
